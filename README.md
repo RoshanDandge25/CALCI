@@ -31,9 +31,9 @@ The Calculator Project is a simple yet functional web application designed to pe
 > _You can insert screenshots here if you have them:_
 
 <p align="center">
-  <img width="300" height="500" alt="Screenshot 2025-07-30 160910" src="https://github.com/user-attachments/assets/fe9f4774-b5b2-4eab-9283-e6f1e1e90b70" />
+  <img width="500" height="800" alt="Screenshot 2025-07-30 160910" src="https://github.com/user-attachments/assets/fe9f4774-b5b2-4eab-9283-e6f1e1e90b70" />
 </p>
-<img width="300" height="500" alt="Screenshot 2025-07-30 160910" src="https://github.com/user-attachments/assets/fe9f4774-b5b2-4eab-9283-e6f1e1e90b70" />
+
 
 ---
 
